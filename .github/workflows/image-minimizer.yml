@@ -1,4 +1,4 @@
-name: Image Minimizer
+https://github.com/TeamNewPipe/NewPipe/actions/runs/2005522777/workflowname: Image Minimizer
 
 on:
   issue_comment:
